@@ -1,0 +1,93 @@
+Dataset-new_thyroid1 L-5 N-5 P-0.85
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9534883720930233 tp:1.0 tn:0.947368421053 m-acc:0.973684210526 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9534883720930233 tp:0.777777777778 tn:1.0 m-acc:0.888888888889 auc:0.996031746032 level:2
+The average accuracy is: 0.981395348837¡À0.0227859510957
+The average mean-accuracy is: 0.972514619883¡À0.043037121621
+The average auc is: 0.999206349206¡À0.0015873015873
+The average level is: 2.0¡À0.0
+The average time(s) is: 7.8¡À0.4
+--------------------------------------
+Dataset-new_thyroid1 L-5 N-5 P-0.9
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:3
+acc:0.9534883720930233 tp:1.0 tn:0.947368421053 m-acc:0.973684210526 auc:1.0 level:3
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:3
+acc:0.9534883720930233 tp:0.777777777778 tn:1.0 m-acc:0.888888888889 auc:0.996031746032 level:2
+The average accuracy is: 0.981395348837¡À0.0227859510957
+The average mean-accuracy is: 0.972514619883¡À0.043037121621
+The average auc is: 0.999206349206¡À0.0015873015873
+The average level is: 2.6¡À0.489897948557
+The average time(s) is: -2.4¡À23.3289519696
+--------------------------------------
+Dataset-new_thyroid1 L-5 N-5 P-0.95
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:3
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9767441860465116 tp:0.875 tn:1.0 m-acc:0.9375 auc:0.996031746032 level:2
+acc:0.9767441860465116 tp:0.875 tn:1.0 m-acc:0.9375 auc:0.996031746032 level:2
+The average accuracy is: 0.990697674419¡À0.0113929755478
+The average mean-accuracy is: 0.975¡À0.0306186217848
+The average auc is: 0.998412698413¡À0.0019440394784
+The average level is: 2.2¡À0.4
+The average time(s) is: -4.0¡À24.5438383306
+--------------------------------------
+Dataset-new_thyroid1 L-5 N-5 P-1
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9767441860465116 tp:0.875 tn:1.0 m-acc:0.9375 auc:1.0 level:2
+acc:0.9534883720930233 tp:0.777777777778 tn:1.0 m-acc:0.888888888889 auc:0.992063492063 level:2
+The average accuracy is: 0.986046511628¡À0.0186046511628
+The average mean-accuracy is: 0.965277777778¡À0.0452189461003
+The average auc is: 0.998412698413¡À0.0031746031746
+The average level is: 2.0¡À0.0
+The average time(s) is: 7.8¡À0.4
+--------------------------------------
+Dataset-new_thyroid1 L-5 N-5 P-1.05
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9767441860465116 tp:0.875 tn:1.0 m-acc:0.9375 auc:1.0 level:2
+acc:0.9534883720930233 tp:0.777777777778 tn:1.0 m-acc:0.888888888889 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:3
+acc:0.9302325581395349 tp:0.7 tn:1.0 m-acc:0.85 auc:1.0 level:2
+The average accuracy is: 0.972093023256¡À0.0271207064877
+The average mean-accuracy is: 0.935277777778¡À0.0596776319326
+The average auc is: 1.0¡À0.0
+The average level is: 2.2¡À0.4
+The average time(s) is: -3.6¡À24.2123935207
+--------------------------------------
+Dataset-new_thyroid1 L-5 N-5 P-1.1
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9767441860465116 tp:0.875 tn:1.0 m-acc:0.9375 auc:1.0 level:2
+acc:0.9302325581395349 tp:0.7 tn:1.0 m-acc:0.85 auc:0.996031746032 level:2
+The average accuracy is: 0.981395348837¡À0.0271207064877
+The average mean-accuracy is: 0.9575¡À0.0589491306128
+The average auc is: 0.999206349206¡À0.0015873015873
+The average level is: 2.0¡À0.0
+The average time(s) is: -4.6¡À23.7031643457
+--------------------------------------
+Dataset-new_thyroid1 L-5 N-5 P-1.15
+--------------------------------------
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:2
+acc:0.9302325581395349 tp:0.7 tn:1.0 m-acc:0.85 auc:1.0 level:2
+acc:0.9534883720930233 tp:0.777777777778 tn:1.0 m-acc:0.888888888889 auc:1.0 level:2
+acc:1.0 tp:1.0 tn:1.0 m-acc:1.0 auc:1.0 level:3
+acc:0.9302325581395349 tp:0.7 tn:1.0 m-acc:0.85 auc:0.996031746032 level:2
+The average accuracy is: 0.962790697674¡À0.0315457208517
+The average mean-accuracy is: 0.917777777778¡À0.0686195451406
+The average auc is: 0.999206349206¡À0.0015873015873
+The average level is: 2.2¡À0.4
+The average time(s) is: 7.8¡À1.16619037897
+--------------------------------------
+The best mean-accuracy is: 0.975, the best L is: 5, the best P is: 0.95
+The best auc is: 1.0, the best L is: 5, the best P is: 1.05
