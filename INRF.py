@@ -199,8 +199,8 @@ def main(data_name, file_name, train_data_all, test_data_all, params, base_class
     f = open(file_name, "w")
     best_macc=0;best_auc=0;best_macc_std=0
     for param in params:
-        f.write(base_classifier+':'+data_name+' '+str(params)+"\n")
-        print(base_classifier+':'+data_name+' '+str(params))
+        f.write(base_classifier+':'+data_name+' '+str(param)+"\n")
+        print(base_classifier+':'+data_name+' '+str(param))
         f.write("--------------------------------------\n") # 分隔符
         print("--------------------------------------")
         time = [];acc = [];tp = [];tn = [];level = [];m_acc = [];auc = []

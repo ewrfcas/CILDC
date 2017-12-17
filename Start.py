@@ -8,7 +8,7 @@ data_all=data_dict['Imbalanced_data']
 name_list=data_all[:,0]
 IR_ratio=data_all[:,1]
 data_set=data_all[:,2]
-base_classifier='NB'#base classifiers which can be used in our method. selected from 'RF','LR','NB'
+base_classifier='RF'#base classifiers which can be used in our method. selected from 'RF','LR','NB'
 if base_classifier=='NB' or 'LR':
     params={
         'L': [5],  # upper bound of level(auto)
